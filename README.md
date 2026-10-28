@@ -58,4 +58,8 @@ ros2 launch nav2_bringup tb3_simulation_launch.py headless:=False
 
 ## Demonstration
 
-A screen recording demonstrating autonomous navigation is available separately with the assignment submission.
+A screen recording demonstrating autonomous navigation is included in this repository.
+
+Demo video: [Demo-Turtlebot.mp4](Demo-Turtlebot.mp4)
+
+The video shows the TurtleBot3 navigating toward a goal in Gazebo, with the planned path and navigation displayed in RViz.
